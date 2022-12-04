@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Henrysanderson
 - 👀 I’m interested in Web development and astrophysics data analytics 
 - 🌱 I’m currently learning astronomy data analysis with python
-- 💞️ I’m looking to collaborate on astronomical data analysis projects
+- 💞️ I’m looking to collaborate on astronomical data analysis projects and frontend web development
 - 📫 How to reach me ...
 
 <!---
